@@ -38,5 +38,5 @@ setTimeout(function() {
     } else {
         console.error('Password next button not found!');
     }
-}, 5000);
+}, 9000);
 
