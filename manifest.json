@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "Auto Login Extension Made By Muhammad Haris",
+  "name": "Auto Login Recovery Extension Made By Muhammad Haris",
   "version": "2.0",
   "permissions": [
     "activeTab",
